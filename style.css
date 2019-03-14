@@ -1,4 +1,14 @@
 /* Nav bar **************************/
+@font-face {
+    font-family: 'Museo';
+    src: url(../assets/fonts/museo/museo-300-webfont.woff) format("woff");
+}
+
+body {
+    font-family: "Museo", sans-serif;
+}
+
+
 body {
   background-image: url("https://github.com/Pwhite95/web_1_project_2/blob/master/assets/textures/fabric_plaid.png?raw=true");
   margin: 25px;
